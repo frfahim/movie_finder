@@ -1,0 +1,8 @@
+.idea/
+*.idea/
+*.py[cod]
+__pycache__/
+env/
+.scrapy
+.git/
+*.git/
